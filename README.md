@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Roberto González</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robert273&label=Profile%20views&color=0e75b6&style=flat" alt="robert273" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=robert273&label=Profile%20views&color=0e75b6&style=flat" alt="robertgl" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
